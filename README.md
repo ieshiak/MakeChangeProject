@@ -1,2 +1,3 @@
 # MakeChangeProject
 Hello, my name is E$ha
+This assignment was hard for me. I also wasnt sure how to do this read me. Examples would have been nice. I had to literally google and reread everything. I found a lot of examples on stackoverflow. I used a for loop to count the change. This method took hours of trail and error. There was literally 90% failures. I found the decimal formula on google because it wasnt printing correct.
